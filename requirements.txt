@@ -2,3 +2,5 @@ numpy
 ipython
 matplotlib
 keras
+progress
+numba
