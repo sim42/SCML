@@ -10,4 +10,4 @@ This is a 32 hours programe for graduate students who have no experience in HPC 
 [Chapter05](Chapter01/chapter05.ipynb) \
 [Chapter06](Chapter01/chapter06.ipynb) \
 [Chapter07](Chapter01/chapter07.ipynb) \
-[Chapter08](Chapter01/chapter08.ipynb) \
+[Chapter08](Chapter01/chapter08.ipynb)  
