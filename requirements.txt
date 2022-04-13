@@ -1,6 +1,7 @@
 numpy
 ipython
 matplotlib
+ipympl
 keras
 progress
 numba
