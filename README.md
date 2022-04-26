@@ -3,7 +3,7 @@ Scientific Computing and Machine Learning Course
 
 This is a 32 hours programe for graduate students who have no experience in HPC or ML but basic know-how in coding.
 
-[Chapter01 Python和科学计算](Chapter01/chapter01.ipynb)
+[Chapter01 Python和科学计算](Chapter01/科学计算简介.md)
 
 [Chapter02 数据绘图和可视化](Chapter02/chapter02.ipynb)
 
