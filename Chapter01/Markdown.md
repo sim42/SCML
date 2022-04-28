@@ -1,4 +1,6 @@
-## Markdown
+# Markdown
+---
+
 Markdown是一种轻量化的标记语言。主要用于书写技术文档。
 
 ### 参考资料
