@@ -5,7 +5,7 @@ This is a 32 hours programe for graduate students who have no experience in HPC 
 
 [Chapter01 科学计算和Python](Chapter01/chapter01.ipynb)
 
-[Chapter02 多维数组和NumPy](Chapter02/chapter02.ipynb)
+[Chapter02 数值计算和NumPy](Chapter02/chapter02.ipynb)
 
 [Chapter03 符号计算和SymPy](Chapter03/chapter03.ipynb)
 
