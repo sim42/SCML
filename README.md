@@ -1,7 +1,7 @@
 # 科学计算和人工智能
-Scientific Computing and Machine Learning Course 
+Scientific Computing and Machine Learning
 
-This is a 32 hours programe for graduate students who have no experience in HPC or ML but basic know-how in coding.
+This is a 48 hours programe for graduate students who have no experience in HPC or ML but basic know-how in coding.
 
 [Chapter01 科学计算和Python](Chapter01/chapter01.ipynb)
 
@@ -9,9 +9,9 @@ This is a 32 hours programe for graduate students who have no experience in HPC 
 
 [Chapter03 符号计算和SymPy](Chapter03/chapter03.ipynb)
 
-[Chapter04 数据可视化和matplotlib](Chapter04/chapter04.ipynb)
+[Chapter04 数据可视化和Matplotlib](Chapter04/chapter04.ipynb)
 
-[Chapter05 方程求解和优化](Chapter05/chapter05.ipynb)
+[Chapter05 方程求解和函数优化](Chapter05/chapter05.ipynb)
 
 [Chapter06 数值积分和微分方程](Chapter06/chapter06.ipynb)
 
