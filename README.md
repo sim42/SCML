@@ -15,7 +15,7 @@ This is a 48 hours programe for graduate students who have no experience in HPC 
 
 [Chapter06 数值积分和微分方程](Chapter06/chapter06.ipynb)
 
-[Chapter07 分子动力学和有限元](Chapter07/chapter07.ipynb)
+[Chapter07 蒙特卡罗方法和分子动力学](Chapter07/chapter07.ipynb)
 
 [Chapter08 数据分析和统计](Chapter08/chapter08.ipynb)
 
