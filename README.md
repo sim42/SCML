@@ -1,4 +1,5 @@
 # 科学计算和人工智能
+
 Scientific Computing and Machine Learning
 
 This is a 48 hours programe for graduate students who have no experience in HPC or ML but basic know-how in coding.
@@ -30,6 +31,7 @@ This is a 48 hours programe for graduate students who have no experience in HPC 
 [Chapter13 卷积神经网络](Chapter13/chapter13.ipynb)
 
 [Chapter14 机器学习分子动力学](Chapter14/chapter14.ipynb)
+
 
 下载课程源文件：https://github.com/sim42/SCML
 
