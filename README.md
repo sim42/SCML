@@ -13,19 +13,23 @@ This is a 48 hours programe for graduate students who have no experience in HPC 
 
 [Chapter05 方程求解和函数优化](Chapter05/chapter05.ipynb)
 
-[Chapter06 数值积分和微分方程](Chapter06/chapter06.ipynb)
+[Chapter06 数据插值和数值积分](Chapter06/chapter06.ipynb)
 
-[Chapter07 蒙特卡罗方法和分子动力学](Chapter07/chapter07.ipynb)
+[Chapter07 微分方程和有限元方法](Chapter07/chapter07.ipynb)
 
-[Chapter08 数据分析和统计](Chapter08/chapter08.ipynb)
+[Chapter08 蒙特卡罗方法和分子动力学](Chapter08/chapter08.ipynb)
 
-[Chapter09 机器学习回归和分类](Chapter09/chapter09.ipynb)
+[Chapter09 数据分析和统计建模](Chapter09/chapter09.ipynb)
 
-[Chapter10 支持向量机和决策树](Chapter10/chapter10.ipynb)
+[Chapter10 机器学习和SciKit-Learn](Chapter10/chapter10.ipynb)
 
-[Chapter11 多层感知机和卷积神经网络](Chapter11/chapter11.ipynb)
+[Chapter11 支持向量机和决策树](Chapter11/chapter11.ipynb)
 
-[Chapter12 机器学习分子动力学](Chapter12/chapter12.ipynb)
+[Chapter12 多层感知机](Chapter12/chapter12.ipynb)
+
+[Chapter13 卷积神经网络](Chapter13/chapter13.ipynb)
+
+[Chapter14 机器学习分子动力学](Chapter14/chapter14.ipynb)
 
 下载课程源文件：https://github.com/sim42/SCML
 
