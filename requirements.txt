@@ -1,8 +1,12 @@
+ipython
+matplotlib
+progress
+bqplot
+ipyvolume
 numpy
 scipy
 sympy
-ipython
-matplotlib
+pandas
+seaborn
+sklearn
 keras
-progress
-numba
