@@ -40,4 +40,6 @@ This is a 48 hours programe for graduate students who have no experience in HPC 
 
 ## 参考书目
 
-[《Python科学计算和数据科学应用》](http://product.dangdang.com/28974447.html)
+[《Python科学计算和数据科学应用 Numerical Python: A Practical Techniques Approach for Industry》](http://product.dangdang.com/28974447.html)
+
+[《动手学深度学习 Dive into Deep Learning》](https://item.jd.com/47908427478.html)
