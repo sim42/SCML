@@ -26,9 +26,9 @@ This is a 48 hours programe for graduate students who have no experience in HPC 
 
 [Chapter11 支持向量机和决策树](Chapter11/chapter11.ipynb)
 
-[Chapter12 多层感知机](Chapter12/chapter12.ipynb)
+[Chapter12 深度学习和多层感知机](Chapter12/chapter12.ipynb)
 
-[Chapter13 卷积神经网络](Chapter13/chapter13.ipynb)
+[Chapter13 卷积神经网络和长短期记忆网络](Chapter13/chapter13.ipynb)
 
 [Chapter14 机器学习分子动力学](Chapter14/chapter14.ipynb)
 
