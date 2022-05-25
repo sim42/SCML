@@ -1,8 +1,16 @@
-# 科学计算和人工智能
-
-Scientific Computing and Machine Learning
+# 科学计算和机器学习
+---
+**Scientific Computing and Machine Learning**
 
 This is a 64 hours programe for graduate students who have no experience in HPC or ML but basic know-how in coding.
+
+
+* 下载课程文件：https://github.com/sim42/SCML
+* 查看课程文件：https://nbviewer.org/github/sim42/SCML/tree/main/
+* 执行课程文件：https://mybinder.org/v2/gh/sim42/SCML/HEAD
+
+## 目录
+---
 
 [Chapter01 科学计算和Python](Chapter01/chapter01.ipynb)
 
@@ -36,15 +44,8 @@ This is a 64 hours programe for graduate students who have no experience in HPC 
 
 [Chapter16 深度学习分子动力学](Chapter16/chapter16.ipynb)
 
-
-下载课程源文件：https://github.com/sim42/SCML
-
-查看课程源文件：https://nbviewer.org/github/sim42/SCML/tree/main/
-
-执行课程源文件：https://mybinder.org/v2/gh/sim42/SCML/HEAD
-
-
 ## 参考书目
+---
 
 [《Python科学计算和数据科学应用 Numerical Python: A Practical Techniques Approach for Industry》](http://product.dangdang.com/28974447.html)
 
