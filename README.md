@@ -2,7 +2,7 @@
 
 Scientific Computing and Machine Learning
 
-This is a 48 hours programe for graduate students who have no experience in HPC or ML but basic know-how in coding.
+This is a 64 hours programe for graduate students who have no experience in HPC or ML but basic know-how in coding.
 
 [Chapter01 科学计算和Python](Chapter01/chapter01.ipynb)
 
@@ -18,19 +18,23 @@ This is a 48 hours programe for graduate students who have no experience in HPC 
 
 [Chapter07 微分方程和有限元方法](Chapter07/chapter07.ipynb)
 
-[Chapter08 蒙特卡罗方法和分子动力学](Chapter08/chapter08.ipynb)
+[Chapter08 随机过程和蒙特卡罗方法](Chapter07/chapter07.ipynb)
 
-[Chapter09 数据分析和统计建模](Chapter09/chapter09.ipynb)
+[Chapter09 分子动力学和密度泛函理论](Chapter08/chapter08.ipynb)
 
-[Chapter10 机器学习和SciKit-Learn](Chapter10/chapter10.ipynb)
+[Chapter10 数据分析和统计建模](Chapter10/chapter10.ipynb)
 
-[Chapter11 支持向量机和决策树](Chapter11/chapter11.ipynb)
+[Chapter11 机器学习和SciKit-Learn](Chapter11/chapter11.ipynb)
 
-[Chapter12 深度学习和多层感知机](Chapter12/chapter12.ipynb)
+[Chapter12 支持向量机和决策树](Chapter12/chapter12.ipynb)
 
-[Chapter13 卷积神经网络和长短期记忆网络](Chapter13/chapter13.ipynb)
+[Chapter13 深度学习和Keras](Chapter13/chapter13.ipynb)
 
-[Chapter14 机器学习分子动力学](Chapter14/chapter14.ipynb)
+[Chapter14 多层感知机](Chapter14/chapter14.ipynb)
+
+[Chapter15 卷积神经网络和长短期记忆网络](Chapter15/chapter15.ipynb)
+
+[Chapter16 深度学习分子动力学](Chapter16/chapter16.ipynb)
 
 
 下载课程源文件：https://github.com/sim42/SCML
