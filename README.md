@@ -24,9 +24,9 @@ This is a 64 hours programe for graduate students who have no experience in HPC 
 
 [Chapter07 微分方程和有限元方法](Chapter07/chapter07.ipynb)
 
-[Chapter08 随机过程和蒙特卡罗方法](Chapter07/chapter07.ipynb)
+[Chapter08 随机过程和蒙特卡罗方法](Chapter08/chapter08.ipynb)
 
-[Chapter09 分子动力学和密度泛函理论](Chapter08/chapter08.ipynb)
+[Chapter09 分子动力学和密度泛函理论](Chapter09/chapter09.ipynb)
 
 [Chapter10 数据分析和统计建模](Chapter10/chapter10.ipynb)
 
