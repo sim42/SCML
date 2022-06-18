@@ -32,7 +32,7 @@ This is a 64 hours programe for graduate students who have no experience in HPC 
 
 [Chapter11 机器学习和SciKit-Learn](Chapter11/chapter11.ipynb)
 
-[Chapter12 支持向量机和决策树](Chapter12/chapter12.ipynb)
+[Chapter12 贝叶斯统计](Chapter12/chapter12.ipynb)
 
 [Chapter13 深度学习和Keras](Chapter13/chapter13.ipynb)
 
